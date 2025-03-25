@@ -103,7 +103,7 @@ nav li {
     text-transform: uppercase;
     width: 200px;
 }
-.image-row figure img {
+.image-row figure img { 
     border-radius: 50%;
     box-shadow: rgb(255, 255, 181) 10px 0px 10px;
     height: 200px;
