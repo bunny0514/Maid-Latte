@@ -118,6 +118,15 @@ figure.locations img {
     height: auto;
     margin-left: 80px;
 }
+figure.contact {
+    width: 400px;
+    height: 350px;
+}
+figure.contact img {
+    width: 100%;
+    height: auto;
+    margin-left: 80px;
+}
 
 /* RESPONSIVE RULES */
 
